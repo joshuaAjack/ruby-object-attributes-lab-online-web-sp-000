@@ -9,3 +9,5 @@ end
 
 fido = dog.new 
 fido.name
+
+puts name
