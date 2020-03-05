@@ -10,4 +10,4 @@ end
 fido = Dog.new 
 fido.name
 
-puts 
+puts fido.name
